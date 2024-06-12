@@ -31,7 +31,7 @@ Soy estudiante de Ingeniería Informática en la Universidad de Almería (UAL), 
 
 ## 🚀 Proyectos Destacados
 
-### [Proyectos Fin de Modulos](enlace-al-proyecto)
+### [Proyectos Fin de Modulos](https://github.com/NatividadFernandez/Proyectos_Fin_Modulos)
 DAM - Este proyecto consiste en una web y una aplicación móvil para la gestión de stock de una cantera. Se permite a los usuarios llevar un control detallado del inventario, registrar entradas y salidas de productos, y generar reportes de stock. 
 
 DAW - Este proyecto está desarrollado para un instituto, es una web para la gestión de tutores y trabajos finales del módulo. La plataforma permite a los profesores y tutores gestionar y coordinar los trabajos finales, asignar tutores a estudiantes. 
