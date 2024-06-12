@@ -37,7 +37,7 @@ DAM - Este proyecto consiste en una web y una aplicación móvil para la gestió
 DAW - Este proyecto está desarrollado para un instituto, es una web para la gestión de tutores y trabajos finales del módulo. La plataforma permite a los profesores y tutores gestionar y coordinar los trabajos finales, asignar tutores a estudiantes. 
 
 ### [Aplicación Móvil (Android, iOS y Flutter)](enlace-al-proyecto)
-Esta es una aplicación que utiliza la API de PetFinder para gestionar información sobre mascotas. Se han trabajado varios aspectos importantes del desarrollo móvil, incluyendo Clean Architecture, el patrón Model-View-ViewModel (MVVM) y la inyección de dependencias. La aplicación incorpora bases de datos en Android, UserDefaults en iOS y SharedPreferences en Flutter, navegación entre ventanas, y funcionalidades para añadir, borrar y actualizar información en la API, así como una ventana de detalles.
+Esta es una aplicación que utiliza la API de PetFinder para gestionar información sobre mascotas. Se han trabajado varios aspectos importantes del desarrollo móvil, incluyendo Clean Architecture, el patrón Model-View-ViewModel (MVVM), la inyección de dependencias y la persistencia de datos con Sqflite en Flutter. La aplicación incorpora bases de datos en Android, UserDefaults en iOS y SharedPreferences en Flutter, navegación entre ventanas, y funcionalidades para añadir, borrar y actualizar información en la API, así como una ventana de detalles. Además, se ha implementado paginación tanto en la versión iOS como en Flutter para mejorar la experiencia del usuario al visualizar grandes conjuntos de datos.
 
 ## 📫 Contáctame
 
